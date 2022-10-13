@@ -1,0 +1,10 @@
+print("Hallo jij, ik ben computer BEEP BOOP")
+print("wie ben jij")
+username = input()
+print("Hallo " + username + " BEEP")
+print("ik welke jaar ben je geboren")
+jaar = int(input())
+print("het jaar is 2022")
+print("dus jij bent")
+nu = 2022
+print(nu - jaar)
